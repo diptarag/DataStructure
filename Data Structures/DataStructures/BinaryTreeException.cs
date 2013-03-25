@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace DataStructures
+namespace DataStructures.Tree.BinaryTree
 {
     /// <summary>
     /// Custom exception handling class for Binary Tree

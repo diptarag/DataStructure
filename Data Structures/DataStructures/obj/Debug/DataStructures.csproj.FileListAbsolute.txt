@@ -1,0 +1,5 @@
+E:\MyOwn\DataStructures\Data Structures\DataStructures\bin\Debug\DataStructures.dll
+E:\MyOwn\DataStructures\Data Structures\DataStructures\bin\Debug\DataStructures.pdb
+E:\MyOwn\DataStructures\Data Structures\DataStructures\obj\Debug\ResolveAssemblyReference.cache
+E:\MyOwn\DataStructures\Data Structures\DataStructures\obj\Debug\DataStructures.dll
+E:\MyOwn\DataStructures\Data Structures\DataStructures\obj\Debug\DataStructures.pdb

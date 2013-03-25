@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 
-namespace DataStructures
+namespace DataStructures.Tree.BinaryTree
 {
     public class BinarySearchTree<T> : BinaryTree<T>, ICollection<T>
     {
